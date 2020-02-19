@@ -6,12 +6,12 @@
 
 <script>
 // @ is an alias to /src
-import Taskbar from '@/components/TaskBar.vue'
+import TaskBar from '@/components/TaskBar.vue'
 
 export default {
   name: 'Home',
   components: {
-    Taskbar
+    TaskBar
   }
 }
 </script>

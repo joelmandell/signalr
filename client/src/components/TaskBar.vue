@@ -42,6 +42,14 @@ export default {
       spinner:faSpinner,
     }
   },
+  mounted() {
+
+  },
+  methods: {
+    addTask: function() {
+
+    }
+  }
 }
 </script>
 
