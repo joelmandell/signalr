@@ -1,4 +1,4 @@
-# signalr-client
+# SignalR - Chill and Hack with Joel Demo
 
 ## Javascript Client Packages:
 
